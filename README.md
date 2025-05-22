@@ -1,5 +1,9 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <div class="profile-container">
-  <h1>Hola! Soy Luis Barrera</h1>
+  <h1>Luis Barrera</h1>
   <p>Desarrollador web apasionado por la creaci&oacute;n de soluciones robustas y eficientes. Especializado en (Linux, Apache, MySQL, PHP) y con experiencia en interfaces din&aacute;micas usando CSS, Jacript y AJAX.</p>
   <h1>Experiencias laborales</h1>
   <div class="container">
@@ -46,6 +50,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300F_00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 
 
 
@@ -58,26 +63,36 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![Vagrant](https://img.shields.io/badge/Vagrant-%231868F2.svg?style=for-the-badge&logo=vagrant&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-%235849BE.svg?style=for-the-badge&logo=insomnia&logoColor=white)&nbsp;
+
+
+![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Luisbarrera2024">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luisbarrera2024&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/lbarrera2020">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lbarrera2020&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Luisbarrera2024">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luisbarrera2024&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/lbarrera2020">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lbarrera2020&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luisbarrera2024&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lbarrera2020&theme=dark&hide_border=true"/>
 </p>
 
   <div class="footer">
     <p>Conéctate conmigo:</p>
     <div class="social-links">
-      <a href="mailto:luis.barrera@salud.gob.sv">Email</a>
+      <a href="mailto:lbarrerac@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
     </div>
   </div>
 </div>
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
